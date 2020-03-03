@@ -1,4 +1,4 @@
 Приложение для отеля, с большим функционалом по выбору номеров/комнат.
 
-## https://daniel-hotel.netlify.com
+## https://daniel-hotel.netlify.com (vpn)
 
